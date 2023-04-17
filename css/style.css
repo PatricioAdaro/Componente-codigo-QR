@@ -26,15 +26,15 @@ img{
     border-radius: 15px;
     margin: 15px;
 }
-h2{
+h1{
     color: hsl(218, 44%, 22%);
     
     font-size: 1.4rem;
     text-align: center;
-    margin:15px 35px 20px 35px;
+    margin:8px 35px 20px 35px;
 }
 p{
     text-align: center;
-    margin:0px 35px 40px 35px;
+    margin:0px 35px 37px 35px;
     color:hsl(220, 15%, 55%) ;
 }
